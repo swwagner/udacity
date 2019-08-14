@@ -1,2 +1,2 @@
 # udacity
-This repository is need to get the nanodegree
+This repository is needed to get the nanodegree
